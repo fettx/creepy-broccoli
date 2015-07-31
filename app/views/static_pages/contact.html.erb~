@@ -1,4 +1,0 @@
-
-<% provide (:title, "Contact")%>
-%h1Contact
-
